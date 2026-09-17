@@ -1,0 +1,10 @@
+{
+  "name": "Amanah Impact Foundation",
+  "description": "Transparan Berdampak, Amanah Menggerakkan Kebaikan - Website yayasan modern dengan donasi online, dashboard transparansi, CMS campaign, database donatur, laporan impact, zakat, wakaf, relawan, CSR partnership, dan AI Assistant.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
